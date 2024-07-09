@@ -1,4 +1,4 @@
-package org.example;
+package com.fastcampuspay.membership;
 
 public class Main {
     public static void main(String[] args) {

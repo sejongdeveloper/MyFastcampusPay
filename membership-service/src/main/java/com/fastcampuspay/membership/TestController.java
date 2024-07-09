@@ -1,4 +1,4 @@
-package org.example;
+package com.fastcampuspay.membership;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
